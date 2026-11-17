@@ -1,0 +1,21 @@
+Data Scientist - Growth Analytics
+
+About the role
+Join our growth team to turn behavioural data into product decisions. You will design experiments, build predictive models and communicate insights to leadership.
+
+Responsibilities
+- Design and analyse controlled experiments
+- Build churn and lifetime-value models
+- Present recommendations to product and marketing leaders
+
+Requirements
+- 3+ years of experience with Python
+- 3+ years of experience with SQL
+- Strong foundation in statistics and A/B testing
+- Experience with machine learning and scikit-learn
+- Bachelor's degree in a quantitative field
+
+Nice to have
+- Master's degree preferred
+- Tableau for dashboards
+- Spark or Snowflake

@@ -1,0 +1,495 @@
+{
+  "job_description": "Senior Machine Learning Engineer\n\nAbout the role\nWe build recommendation and ranking systems used by millions of customers. You will own models from prototype to production and work closely with data scientists and platform engineers.\n\nResponsibilities\n- Train, evaluate and deploy machine learning models at scale\n- Build reliable serving and monitoring for model endpoints\n- Mentor junior engineers and review designs\n\nRequirements\n- 5+ years of experience with Python\n- 3+ years of experience with machine learning in production\n- Hands-on experience with PyTorch or TensorFlow\n- Experience with Docker and AWS\n- Bachelor's degree in Computer Science or a related field\n\nNice to have\n- Kubernetes and MLOps practices\n- Experience with LLMs and RAG systems\n- Spark for large-scale data processing\n",
+  "parsed_requirements": {
+    "title": "Senior Machine Learning Engineer",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "TensorFlow",
+      "AWS",
+      "Docker"
+    ],
+    "preferred_skills": [
+      "LLMs",
+      "RAG",
+      "MLOps",
+      "Spark",
+      "Kubernetes"
+    ],
+    "must_haves": [
+      "5+ years Python",
+      "3+ years Machine Learning",
+      "bachelor degree or higher"
+    ]
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "Ethan Hassan",
+      "resume_path": "resumes/01_ethan_hassan.pdf",
+      "match_score": 80,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "TensorFlow",
+        "Docker",
+        "RAG"
+      ],
+      "missing_required_skills": [
+        "AWS"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills",
+        "summary",
+        "education"
+      ],
+      "relevant_excerpts": [
+        "[experience] Machine Learning Engineer | Atlas Travel | 2018 - 2020 - Cut inference latency by 38% by profiling and optimising services built on machine learning. - Built feature engineering workflows with NLP and Docker shared across 9 product teams. - Improved reliability and documentation…",
+        "[skills] Python, neural networks, machine learning, NLP, PyTorch, Docker, TensorFlow, retrieval-augmented generation",
+        "[experience] Senior ML Engineer | Brightpath Systems | 2020 - Present - Trained and deployed models with ML and Docker, improving offline F1 by 31 points. - Built feature engineering workflows with TensorFlow and RAG shared across 7 product teams. - Improved reliability and documentation for…"
+      ],
+      "experience_years": 8.3,
+      "education": "B.S. in Computer Science | Central State University | 2016",
+      "score_breakdown": {
+        "semantic": 0.878,
+        "keyword": 0.629,
+        "experience_fit": 1.0
+      },
+      "must_have_failures": [],
+      "reasoning": "Strong semantic match to the role (strongest in: experience, skills, summary); covers 4/5 required skills (Python, Machine Learning, PyTorch, TensorFlow, Docker); missing: AWS; bonus skills: RAG; 8.3 yrs total experience (Python 8.3y, Machine Learning 8.3y); meets all must-have requirements."
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Amara Nair",
+      "resume_path": "resumes/04_amara_nair.pdf",
+      "match_score": 72,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "LLMs",
+        "MLOps"
+      ],
+      "missing_required_skills": [
+        "AWS",
+        "Docker"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "relevant_excerpts": [
+        "[experience] Machine Learning Engineer | Cobalt Cloud | Jan 2017 - Jul 2019 - Trained and deployed models with PyTorch and ML, improving offline F1 by 44 points. - Owned the model lifecycle from prototype to production using MLOps. - Day-to-day toolkit: Python.",
+        "[skills] Core: large language models, scikit-learn, MLOps Also: Machine Learning, FastAPI, PyTorch, Python",
+        "[summary] Senior ML Engineer with 10 years in industry building reliable, user-focused solutions. Hands-on with PyTorch, scikit-learn, MLOps."
+      ],
+      "experience_years": 9.8,
+      "education": "Master of Science in Computer Science | Western City College | 2015",
+      "score_breakdown": {
+        "semantic": 0.785,
+        "keyword": 0.543,
+        "experience_fit": 1.0
+      },
+      "must_have_failures": [],
+      "reasoning": "Strong semantic match to the role (strongest in: experience, skills, summary); covers 3/5 required skills (Python, Machine Learning, PyTorch); missing: AWS, Docker; bonus skills: LLMs, MLOps; 9.8 yrs total experience (Python 9.8y, Machine Learning 9.8y); meets all must-have requirements."
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Arjun Bello",
+      "resume_path": "resumes/06_arjun_bello.txt",
+      "match_score": 68,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "TensorFlow",
+        "AWS",
+        "RAG"
+      ],
+      "missing_required_skills": [
+        "Docker"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "relevant_excerpts": [
+        "[experience] Machine Learning Engineer | Cobalt Cloud | May 2016 - Jan 2024 - Led code reviews and onboarding for 8 new hires working with machine learning. - Built feature engineering workflows with PyTorch and AWS shared across 8 product teams. - Day-to-day toolkit: Python.",
+        "[skills] Core: Python, FastAPI, RAG, TensorFlow Also: Machine Learning, PyTorch, AWS, sklearn",
+        "[experience] Senior ML Engineer | Helio Analytics | Jan 2024 - Present - Built feature engineering workflows with retrieval-augmented generation and TensorFlow shared across 7 product teams. - Trained and deployed models with FastAPI and machine learning, improving offline F1 by 50 points. -…"
+      ],
+      "experience_years": 10.5,
+      "education": "Bachelor of Engineering in Electrical Engineering | Northern Polytechnic University | 2013",
+      "score_breakdown": {
+        "semantic": 0.655,
+        "keyword": 0.629,
+        "experience_fit": 1.0
+      },
+      "must_have_failures": [],
+      "reasoning": "Good semantic match to the role (strongest in: experience, skills, summary); covers 4/5 required skills (Python, Machine Learning, PyTorch, TensorFlow, AWS); missing: Docker; bonus skills: RAG; 10.5 yrs total experience (Python 10.5y, Machine Learning 10.5y); meets all must-have requirements."
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Aarav Reddy",
+      "resume_path": "resumes/07_aarav_reddy.pdf",
+      "match_score": 49,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "Spark"
+      ],
+      "missing_required_skills": [
+        "PyTorch/TensorFlow",
+        "AWS",
+        "Docker"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "relevant_excerpts": [
+        "[experience] Senior Data Scientist | Vertex Media | 2020 - Present - Created self-serve dashboards with Python used weekly by 4 stakeholders. - Built forecasting and segmentation work in sklearn, adopted by finance and marketing. - Delivered analyses with machine learning and SQL that drove…",
+        "[skills] Core: scikit-learn, Python, Tableau, NumPy Also: Statistics, machine learning, SQL, Spark",
+        "[summary] Senior Data Scientist with 11 years in industry building reliable, user-focused solutions. Hands-on with ML, NumPy, scikit-learn."
+      ],
+      "experience_years": 10.3,
+      "education": "Bachelor of Science in Statistics | Western Tech University | 2013",
+      "score_breakdown": {
+        "semantic": 0.483,
+        "keyword": 0.343,
+        "experience_fit": 1.0
+      },
+      "must_have_failures": [],
+      "reasoning": "Partial semantic match to the role (strongest in: experience, skills, summary); covers 2/5 required skills (Python, Machine Learning); missing: PyTorch/TensorFlow, AWS, Docker; bonus skills: Spark; 10.3 yrs total experience (Python 10.3y, Machine Learning 6.3y); meets all must-have requirements."
+    },
+    {
+      "rank": 5,
+      "candidate_name": "Zainab Chen",
+      "resume_path": "resumes/10_zainab_chen.pdf",
+      "match_score": 47,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "Spark"
+      ],
+      "missing_required_skills": [
+        "PyTorch/TensorFlow",
+        "AWS",
+        "Docker"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "relevant_excerpts": [
+        "[experience] Senior Data Scientist | BlueOrbit | Jul 2023 – Present - Built forecasting and segmentation work in Python, adopted by finance and marketing. - Improved reliability and documentation for systems that rely on statistical modeling and machine learning. - Collaborated across teams…",
+        "[experience] Data Scientist | Orchid Software | Aug 2019 – Feb 2022 - Improved reliability and documentation for systems that rely on SQL and ML. - Created self-serve dashboards with Tableau used weekly by 3 stakeholders. - Collaborated across teams to deliver milestones on schedule using st…",
+        "[skills] Core: Python, NLP, Tableau, machine learning Also: SQL, Spark, statistics, NumPy, A/B Testing"
+      ],
+      "experience_years": 7.0,
+      "education": "M.S. in Statistics | Coastal Institute of Technology | 2017",
+      "score_breakdown": {
+        "semantic": 0.446,
+        "keyword": 0.343,
+        "experience_fit": 1.0
+      },
+      "must_have_failures": [],
+      "reasoning": "Partial semantic match to the role (strongest in: experience, skills, summary); covers 2/5 required skills (Python, Machine Learning); missing: PyTorch/TensorFlow, AWS, Docker; bonus skills: Spark; 7 yrs total experience (Python 7y, Machine Learning 5.8y); meets all must-have requirements."
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Arjun Haddad",
+      "resume_path": "resumes/37_arjun_haddad.txt",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Arjun Patel",
+      "resume_path": "resumes/20_arjun_patel.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Arjun Silva",
+      "resume_path": "resumes/35_arjun_silva.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Carlos Petrov",
+      "resume_path": "resumes/15_carlos_petrov.pdf",
+      "reasons": [
+        "Python: 2.2 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Daniel Khan",
+      "resume_path": "resumes/03_daniel_khan.pdf",
+      "reasons": [
+        "Python: 1.8 yrs < required 5",
+        "Machine Learning: 1.8 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Diego Iyer",
+      "resume_path": "resumes/09_diego_iyer.pdf",
+      "reasons": [
+        "Python: 2.3 yrs < required 5",
+        "Machine Learning: 2.3 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Divya Kim",
+      "resume_path": "resumes/19_divya_kim.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Fatima Hassan",
+      "resume_path": "resumes/02_fatima_hassan.txt",
+      "reasons": [
+        "Python: 4 yrs < required 5"
+      ]
+    },
+    {
+      "candidate_name": "Grace Fernandez",
+      "resume_path": "resumes/14_grace_fernandez.pdf",
+      "reasons": [
+        "Python: 3.8 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Grace Petrov",
+      "resume_path": "resumes/08_grace_petrov.pdf",
+      "reasons": [
+        "Python: 4.4 yrs < required 5",
+        "Machine Learning: 2.4 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Grace Sato",
+      "resume_path": "resumes/31_grace_sato.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Hannah Moreau",
+      "resume_path": "resumes/17_hannah_moreau.pdf",
+      "reasons": [
+        "Python: 3.6 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Hiroshi Cohen",
+      "resume_path": "resumes/38_hiroshi_cohen.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Hiroshi Ruiz",
+      "resume_path": "resumes/28_hiroshi_ruiz.txt",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Ivan Patel",
+      "resume_path": "resumes/29_ivan_patel.pdf",
+      "reasons": [
+        "Python: 2.7 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Layla Garcia",
+      "resume_path": "resumes/40_layla_garcia.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Liam Kowalski",
+      "resume_path": "resumes/12_liam_kowalski.pdf",
+      "reasons": [
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Lucía Adams",
+      "resume_path": "resumes/23_luca_adams.txt",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Marta Park",
+      "resume_path": "resumes/18_marta_park.txt",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Mei Kowalski",
+      "resume_path": "resumes/21_mei_kowalski.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Mei Park",
+      "resume_path": "resumes/34_mei_park.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Nadia Reddy",
+      "resume_path": "resumes/36_nadia_reddy.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Noah Ali",
+      "resume_path": "resumes/27_noah_ali.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Omar Chen",
+      "resume_path": "resumes/24_omar_chen.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Pavel Volkov",
+      "resume_path": "resumes/22_pavel_volkov.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "resume_path": "resumes/13_priya_patel.txt",
+      "reasons": [
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Priya Sharma",
+      "resume_path": "resumes/11_priya_sharma.pdf",
+      "reasons": [
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Rahul Rossi",
+      "resume_path": "resumes/25_rahul_rossi.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Samuel Gupta",
+      "resume_path": "resumes/16_samuel_gupta.pdf",
+      "reasons": [
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Samuel Mensah",
+      "resume_path": "resumes/26_samuel_mensah.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Sofia Khan",
+      "resume_path": "resumes/05_sofia_khan.txt",
+      "reasons": [
+        "Python: 4.3 yrs < required 5"
+      ]
+    },
+    {
+      "candidate_name": "Sofia Patel",
+      "resume_path": "resumes/39_sofia_patel.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Tomás Hassan",
+      "resume_path": "resumes/30_toms_hassan.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Wei Chen",
+      "resume_path": "resumes/33_wei_chen.txt",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    },
+    {
+      "candidate_name": "Zainab Larsen",
+      "resume_path": "resumes/32_zainab_larsen.pdf",
+      "reasons": [
+        "Python: 0 yrs < required 5",
+        "Machine Learning: 0 yrs < required 3"
+      ]
+    }
+  ],
+  "meta": {
+    "k": 10,
+    "candidates_scored": 5,
+    "candidates_filtered": 35,
+    "latency_ms": 44.6,
+    "embedder": "hash-4096",
+    "weights": {
+      "semantic": 0.55,
+      "keyword": 0.35,
+      "experience": 0.1
+    }
+  }
+}

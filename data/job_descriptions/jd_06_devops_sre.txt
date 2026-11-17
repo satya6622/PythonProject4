@@ -1,0 +1,19 @@
+Site Reliability Engineer / DevOps
+
+About the role
+Help us run a multi-region cloud platform with strong reliability targets. You will build the tooling and automation that lets product teams ship safely.
+
+Responsibilities
+- Operate and improve production infrastructure
+- Build deployment automation and self-service tooling
+- Lead incident response and post-incident reviews
+
+Requirements
+- 4+ years of experience with Kubernetes
+- 3+ years of experience with Terraform
+- Experience with AWS and Linux
+- Strong CI/CD practices
+
+Nice to have
+- Prometheus and Grafana
+- Python scripting

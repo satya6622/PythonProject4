@@ -1,0 +1,30 @@
+Marta Park
+marta.park@example.com | +54 366-158-5809 | London
+
+SUMMARY
+Senior Backend Engineer with 11 years in industry building reliable, user-focused solutions. Hands-on with Jenkins, Kafka, Spring Boot.
+
+EXPERIENCE
+Senior Backend Engineer | Fernwood Health | 2023 - Present
+- Designed and shipped services with Jenkins and PostgreSQL handling 21k requests per second.
+- Hardened payment flows and cut p99 latency by 33% through query and cache tuning with Redis.
+- Led code reviews and onboarding for 3 new hires working with Kafka.
+- Improved reliability and documentation for systems that rely on Spring Boot.
+- Day-to-day toolkit: Java, microservices.
+Backend Engineer | Orchid Software | 2018 - 2023
+- Hardened payment flows and cut p99 latency by 18% through query and cache tuning with microservices.
+- Mentored 5 engineers and led design reviews for systems using Redis and Java.
+- Improved reliability and documentation for systems that rely on Kafka and Spring Boot.
+- Day-to-day toolkit: Jenkins.
+Backend Engineer | Brightpath Systems | 2015 - 2018
+- Collaborated across teams to deliver milestones on schedule using Spring Boot.
+- Mentored 3 engineers and led design reviews for systems using RESTful APIs and Docker.
+- Improved reliability and documentation for systems that rely on microservices and Java.
+- Day-to-day toolkit: Kafka.
+
+ACADEMIC BACKGROUND
+M.S. in Computer Science | Western City College | 2014
+Bachelor of Science in Computer Science | Western City College | 2012
+
+CORE COMPETENCIES
+REST APIs, Jenkins, Redis, Java, Spring Boot, PostgreSQL, Kafka, Kubernetes, MySQL, Docker, microservices

@@ -1,0 +1,1201 @@
+{
+  "resumes": {
+    "01_ethan_hassan.pdf": {
+      "name": "Ethan Hassan",
+      "archetype": "ml_engineer",
+      "level": "senior",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "NLP",
+        "Docker",
+        "Deep Learning",
+        "RAG",
+        "TensorFlow"
+      ],
+      "skill_years": {
+        "Python": 8.7,
+        "Machine Learning": 8.7,
+        "PyTorch": 8.7,
+        "NLP": 2.0,
+        "Docker": 8.7,
+        "Deep Learning": 6.7,
+        "RAG": 6.7,
+        "TensorFlow": 6.7
+      },
+      "total_years": 8.7,
+      "education_level": 2
+    },
+    "02_fatima_hassan.txt": {
+      "name": "Fatima Hassan",
+      "archetype": "ml_engineer",
+      "level": "mid",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "NLP",
+        "Computer Vision",
+        "RAG",
+        "Docker"
+      ],
+      "skill_years": {
+        "Python": 4.0,
+        "Machine Learning": 4.0,
+        "PyTorch": 4.0,
+        "NLP": 1.3,
+        "Computer Vision": 2.7,
+        "RAG": 2.7,
+        "Docker": 0.0
+      },
+      "total_years": 4.0,
+      "education_level": 4
+    },
+    "03_daniel_khan.pdf": {
+      "name": "Daniel Khan",
+      "archetype": "ml_engineer",
+      "level": "junior",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "Deep Learning",
+        "Computer Vision",
+        "Spark",
+        "SQL",
+        "AWS",
+        "FastAPI"
+      ],
+      "skill_years": {
+        "Python": 1.8,
+        "Machine Learning": 1.8,
+        "PyTorch": 1.8,
+        "Deep Learning": 1.8,
+        "Computer Vision": 1.8,
+        "Spark": 1.8,
+        "SQL": 1.8,
+        "AWS": 0.0,
+        "FastAPI": 0.0
+      },
+      "total_years": 1.8,
+      "education_level": 2
+    },
+    "04_amara_nair.pdf": {
+      "name": "Amara Nair",
+      "archetype": "ml_engineer",
+      "level": "senior",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "MLOps",
+        "scikit-learn",
+        "LLMs",
+        "FastAPI"
+      ],
+      "skill_years": {
+        "Python": 9.8,
+        "Machine Learning": 9.8,
+        "PyTorch": 9.8,
+        "MLOps": 2.5,
+        "scikit-learn": 7.3,
+        "LLMs": 7.3,
+        "FastAPI": 7.3
+      },
+      "total_years": 9.8,
+      "education_level": 3
+    },
+    "05_sofia_khan.txt": {
+      "name": "Sofia Khan",
+      "archetype": "ml_engineer",
+      "level": "mid",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "RAG",
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Deep Learning"
+      ],
+      "skill_years": {
+        "Python": 3.7,
+        "Machine Learning": 3.7,
+        "PyTorch": 3.7,
+        "RAG": 1.2,
+        "AWS": 1.2,
+        "Kubernetes": 2.4,
+        "Docker": 2.4,
+        "Deep Learning": 0.0
+      },
+      "total_years": 3.7,
+      "education_level": 3
+    },
+    "06_arjun_bello.txt": {
+      "name": "Arjun Bello",
+      "archetype": "ml_engineer",
+      "level": "senior",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "AWS",
+        "RAG",
+        "FastAPI",
+        "TensorFlow",
+        "scikit-learn"
+      ],
+      "skill_years": {
+        "Python": 10.5,
+        "Machine Learning": 10.5,
+        "PyTorch": 10.5,
+        "AWS": 7.7,
+        "RAG": 2.8,
+        "FastAPI": 2.8,
+        "TensorFlow": 2.8,
+        "scikit-learn": 2.8
+      },
+      "total_years": 10.5,
+      "education_level": 2
+    },
+    "07_aarav_reddy.pdf": {
+      "name": "Aarav Reddy",
+      "archetype": "data_scientist",
+      "level": "senior",
+      "skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "NumPy",
+        "Spark",
+        "Machine Learning",
+        "scikit-learn",
+        "Tableau"
+      ],
+      "skill_years": {
+        "Python": 10.6,
+        "SQL": 10.6,
+        "Statistics": 10.6,
+        "NumPy": 10.6,
+        "Spark": 7.2,
+        "Machine Learning": 6.4,
+        "scikit-learn": 6.4,
+        "Tableau": 0.0
+      },
+      "total_years": 10.6,
+      "education_level": 2
+    },
+    "08_grace_petrov.pdf": {
+      "name": "Grace Petrov",
+      "archetype": "data_scientist",
+      "level": "mid",
+      "skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "NLP",
+        "Pandas",
+        "Machine Learning",
+        "NumPy",
+        "scikit-learn",
+        "Tableau",
+        "Snowflake"
+      ],
+      "skill_years": {
+        "Python": 4.4,
+        "SQL": 4.4,
+        "Statistics": 4.4,
+        "NLP": 4.4,
+        "Pandas": 2.0,
+        "Machine Learning": 2.4,
+        "NumPy": 2.4,
+        "scikit-learn": 2.4,
+        "Tableau": 0.0,
+        "Snowflake": 0.0
+      },
+      "total_years": 4.4,
+      "education_level": 2
+    },
+    "09_diego_iyer.pdf": {
+      "name": "Diego Iyer",
+      "archetype": "data_scientist",
+      "level": "junior",
+      "skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Machine Learning",
+        "NumPy",
+        "Tableau",
+        "A/B Testing",
+        "Snowflake"
+      ],
+      "skill_years": {
+        "Python": 2.0,
+        "SQL": 2.0,
+        "Statistics": 2.0,
+        "Machine Learning": 2.0,
+        "NumPy": 2.0,
+        "Tableau": 2.0,
+        "A/B Testing": 0.0,
+        "Snowflake": 0.0
+      },
+      "total_years": 2.0,
+      "education_level": 2
+    },
+    "10_zainab_chen.pdf": {
+      "name": "Zainab Chen",
+      "archetype": "data_scientist",
+      "level": "senior",
+      "skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Machine Learning",
+        "A/B Testing",
+        "Tableau",
+        "NumPy",
+        "NLP",
+        "Spark"
+      ],
+      "skill_years": {
+        "Python": 7.0,
+        "SQL": 7.0,
+        "Statistics": 7.0,
+        "Machine Learning": 5.8,
+        "A/B Testing": 5.8,
+        "Tableau": 3.7,
+        "NumPy": 3.3,
+        "NLP": 0.0,
+        "Spark": 0.0
+      },
+      "total_years": 7.0,
+      "education_level": 3
+    },
+    "11_priya_sharma.pdf": {
+      "name": "Priya Sharma",
+      "archetype": "data_scientist",
+      "level": "mid",
+      "skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "A/B Testing",
+        "NLP",
+        "Pandas",
+        "Snowflake",
+        "Spark"
+      ],
+      "skill_years": {
+        "Python": 5.0,
+        "SQL": 5.0,
+        "Statistics": 5.0,
+        "A/B Testing": 3.6,
+        "NLP": 3.6,
+        "Pandas": 1.4,
+        "Snowflake": 1.4,
+        "Spark": 1.4
+      },
+      "total_years": 5.0,
+      "education_level": 3
+    },
+    "12_liam_kowalski.pdf": {
+      "name": "Liam Kowalski",
+      "archetype": "data_scientist",
+      "level": "senior",
+      "skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Pandas",
+        "NumPy",
+        "scikit-learn",
+        "A/B Testing",
+        "Snowflake"
+      ],
+      "skill_years": {
+        "Python": 8.4,
+        "SQL": 8.4,
+        "Statistics": 8.4,
+        "Pandas": 3.8,
+        "NumPy": 4.6,
+        "scikit-learn": 4.6,
+        "A/B Testing": 4.6,
+        "Snowflake": 4.6
+      },
+      "total_years": 8.4,
+      "education_level": 2
+    },
+    "13_priya_patel.txt": {
+      "name": "Priya Patel",
+      "archetype": "data_engineer",
+      "level": "senior",
+      "skills": [
+        "SQL",
+        "Spark",
+        "Python",
+        "GCP",
+        "Kafka",
+        "Snowflake",
+        "Airflow"
+      ],
+      "skill_years": {
+        "SQL": 6.7,
+        "Spark": 6.7,
+        "Python": 6.7,
+        "GCP": 5.0,
+        "Kafka": 6.7,
+        "Snowflake": 5.0,
+        "Airflow": 1.7
+      },
+      "total_years": 6.7,
+      "education_level": 2
+    },
+    "14_grace_fernandez.pdf": {
+      "name": "Grace Fernandez",
+      "archetype": "data_engineer",
+      "level": "mid",
+      "skills": [
+        "SQL",
+        "Spark",
+        "Python",
+        "dbt",
+        "Snowflake",
+        "AWS",
+        "PostgreSQL",
+        "Scala",
+        "BigQuery",
+        "Kafka",
+        "GCP"
+      ],
+      "skill_years": {
+        "SQL": 3.8,
+        "Spark": 3.8,
+        "Python": 3.8,
+        "dbt": 1.9,
+        "Snowflake": 3.8,
+        "AWS": 1.9,
+        "PostgreSQL": 1.8,
+        "Scala": 1.8,
+        "BigQuery": 1.8,
+        "Kafka": 0.0,
+        "GCP": 0.0
+      },
+      "total_years": 3.8,
+      "education_level": 2
+    },
+    "15_carlos_petrov.pdf": {
+      "name": "Carlos Petrov",
+      "archetype": "data_engineer",
+      "level": "junior",
+      "skills": [
+        "SQL",
+        "Spark",
+        "Python",
+        "Snowflake",
+        "dbt",
+        "AWS",
+        "GCP"
+      ],
+      "skill_years": {
+        "SQL": 2.2,
+        "Spark": 2.2,
+        "Python": 2.2,
+        "Snowflake": 2.2,
+        "dbt": 2.2,
+        "AWS": 2.2,
+        "GCP": 2.2
+      },
+      "total_years": 2.2,
+      "education_level": 3
+    },
+    "16_samuel_gupta.pdf": {
+      "name": "Samuel Gupta",
+      "archetype": "data_engineer",
+      "level": "senior",
+      "skills": [
+        "SQL",
+        "Spark",
+        "Python",
+        "GCP",
+        "Airflow",
+        "AWS",
+        "Kafka",
+        "Scala",
+        "dbt",
+        "ETL",
+        "Docker"
+      ],
+      "skill_years": {
+        "SQL": 10.1,
+        "Spark": 10.1,
+        "Python": 10.1,
+        "GCP": 5.9,
+        "Airflow": 0.6,
+        "AWS": 0.6,
+        "Kafka": 4.2,
+        "Scala": 3.6,
+        "dbt": 3.6,
+        "ETL": 0.0,
+        "Docker": 0.0
+      },
+      "total_years": 10.1,
+      "education_level": 2
+    },
+    "17_hannah_moreau.pdf": {
+      "name": "Hannah Moreau",
+      "archetype": "data_engineer",
+      "level": "mid",
+      "skills": [
+        "SQL",
+        "Spark",
+        "Python",
+        "GCP",
+        "ETL",
+        "Scala",
+        "dbt",
+        "PostgreSQL",
+        "BigQuery"
+      ],
+      "skill_years": {
+        "SQL": 3.6,
+        "Spark": 3.6,
+        "Python": 3.6,
+        "GCP": 1.6,
+        "ETL": 3.6,
+        "Scala": 3.6,
+        "dbt": 2.0,
+        "PostgreSQL": 2.0,
+        "BigQuery": 0.0
+      },
+      "total_years": 3.6,
+      "education_level": 2
+    },
+    "18_marta_park.txt": {
+      "name": "Marta Park",
+      "archetype": "backend_java",
+      "level": "senior",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Docker",
+        "Kafka",
+        "REST APIs",
+        "Jenkins",
+        "Redis",
+        "PostgreSQL",
+        "Kubernetes",
+        "MySQL"
+      ],
+      "skill_years": {
+        "Java": 11.2,
+        "Spring Boot": 11.2,
+        "Microservices": 11.2,
+        "Docker": 2.9,
+        "Kafka": 11.2,
+        "REST APIs": 2.9,
+        "Jenkins": 8.3,
+        "Redis": 8.3,
+        "PostgreSQL": 3.8,
+        "Kubernetes": 0.0,
+        "MySQL": 0.0
+      },
+      "total_years": 11.2,
+      "education_level": 3
+    },
+    "19_divya_kim.pdf": {
+      "name": "Divya Kim",
+      "archetype": "backend_java",
+      "level": "mid",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "GraphQL",
+        "MySQL",
+        "PostgreSQL",
+        "REST APIs",
+        "Docker",
+        "Kafka"
+      ],
+      "skill_years": {
+        "Java": 4.3,
+        "Spring Boot": 4.3,
+        "Microservices": 4.3,
+        "GraphQL": 3.0,
+        "MySQL": 1.3,
+        "PostgreSQL": 1.3,
+        "REST APIs": 1.3,
+        "Docker": 1.3,
+        "Kafka": 0.0
+      },
+      "total_years": 4.3,
+      "education_level": 3
+    },
+    "20_arjun_patel.pdf": {
+      "name": "Arjun Patel",
+      "archetype": "backend_java",
+      "level": "junior",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Redis",
+        "MySQL",
+        "REST APIs",
+        "AWS"
+      ],
+      "skill_years": {
+        "Java": 1.8,
+        "Spring Boot": 1.8,
+        "Microservices": 1.8,
+        "Redis": 1.8,
+        "MySQL": 1.8,
+        "REST APIs": 1.8,
+        "AWS": 0.0
+      },
+      "total_years": 1.8,
+      "education_level": 2
+    },
+    "21_mei_kowalski.pdf": {
+      "name": "Mei Kowalski",
+      "archetype": "backend_java",
+      "level": "senior",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Kafka",
+        "Redis",
+        "PostgreSQL",
+        "Docker",
+        "Jenkins",
+        "AWS"
+      ],
+      "skill_years": {
+        "Java": 8.6,
+        "Spring Boot": 8.6,
+        "Microservices": 8.6,
+        "Kafka": 3.5,
+        "Redis": 3.5,
+        "PostgreSQL": 3.5,
+        "Docker": 5.1,
+        "Jenkins": 3.0,
+        "AWS": 0.0
+      },
+      "total_years": 8.6,
+      "education_level": 2
+    },
+    "22_pavel_volkov.pdf": {
+      "name": "Pavel Volkov",
+      "archetype": "backend_java",
+      "level": "mid",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "PostgreSQL",
+        "Redis",
+        "Jenkins"
+      ],
+      "skill_years": {
+        "Java": 5.9,
+        "Spring Boot": 5.9,
+        "Microservices": 5.9,
+        "PostgreSQL": 5.9,
+        "Redis": 1.8,
+        "Jenkins": 0.0
+      },
+      "total_years": 5.9,
+      "education_level": 3
+    },
+    "23_luca_adams.txt": {
+      "name": "Luc\u00eda Adams",
+      "archetype": "frontend",
+      "level": "senior",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML/CSS",
+        "REST APIs",
+        "Node.js",
+        "Angular",
+        "TypeScript",
+        "CI/CD"
+      ],
+      "skill_years": {
+        "React": 11.1,
+        "JavaScript": 11.1,
+        "HTML/CSS": 11.1,
+        "REST APIs": 11.1,
+        "Node.js": 8.1,
+        "Angular": 3.0,
+        "TypeScript": 3.0,
+        "CI/CD": 0.0
+      },
+      "total_years": 11.1,
+      "education_level": 3
+    },
+    "24_omar_chen.pdf": {
+      "name": "Omar Chen",
+      "archetype": "frontend",
+      "level": "mid",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML/CSS",
+        "TypeScript",
+        "Vue",
+        "Figma",
+        "REST APIs",
+        "CI/CD"
+      ],
+      "skill_years": {
+        "React": 5.7,
+        "JavaScript": 5.7,
+        "HTML/CSS": 5.7,
+        "TypeScript": 5.7,
+        "Vue": 4.2,
+        "Figma": 5.7,
+        "REST APIs": 1.5,
+        "CI/CD": 1.5
+      },
+      "total_years": 5.7,
+      "education_level": 3
+    },
+    "25_rahul_rossi.pdf": {
+      "name": "Rahul Rossi",
+      "archetype": "frontend",
+      "level": "junior",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML/CSS",
+        "Node.js",
+        "REST APIs",
+        "TypeScript",
+        "Vue",
+        "Figma"
+      ],
+      "skill_years": {
+        "React": 2.4,
+        "JavaScript": 2.4,
+        "HTML/CSS": 2.4,
+        "Node.js": 2.4,
+        "REST APIs": 2.4,
+        "TypeScript": 2.4,
+        "Vue": 2.4,
+        "Figma": 0.0
+      },
+      "total_years": 2.4,
+      "education_level": 3
+    },
+    "26_samuel_mensah.pdf": {
+      "name": "Samuel Mensah",
+      "archetype": "frontend",
+      "level": "senior",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML/CSS",
+        "Angular",
+        "Vue",
+        "GraphQL",
+        "Figma",
+        "TypeScript",
+        "Node.js",
+        "REST APIs"
+      ],
+      "skill_years": {
+        "React": 11.7,
+        "JavaScript": 11.7,
+        "HTML/CSS": 11.7,
+        "Angular": 3.8,
+        "Vue": 6.2,
+        "GraphQL": 3.8,
+        "Figma": 7.9,
+        "TypeScript": 2.5,
+        "Node.js": 0.0,
+        "REST APIs": 0.0
+      },
+      "total_years": 11.7,
+      "education_level": 3
+    },
+    "27_noah_ali.pdf": {
+      "name": "Noah Ali",
+      "archetype": "frontend",
+      "level": "mid",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML/CSS",
+        "Figma",
+        "TypeScript",
+        "Angular",
+        "Node.js",
+        "REST APIs"
+      ],
+      "skill_years": {
+        "React": 5.0,
+        "JavaScript": 5.0,
+        "HTML/CSS": 5.0,
+        "Figma": 5.0,
+        "TypeScript": 2.1,
+        "Angular": 2.9,
+        "Node.js": 0.0,
+        "REST APIs": 0.0
+      },
+      "total_years": 5.0,
+      "education_level": 3
+    },
+    "28_hiroshi_ruiz.txt": {
+      "name": "Hiroshi Ruiz",
+      "archetype": "devops",
+      "level": "senior",
+      "skills": [
+        "Docker",
+        "Linux",
+        "CI/CD",
+        "Kubernetes",
+        "Terraform",
+        "Prometheus",
+        "Azure"
+      ],
+      "skill_years": {
+        "Docker": 10.5,
+        "Linux": 10.5,
+        "CI/CD": 10.5,
+        "Kubernetes": 10.5,
+        "Terraform": 10.5,
+        "Prometheus": 10.5,
+        "Azure": 2.6
+      },
+      "total_years": 10.5,
+      "education_level": 2
+    },
+    "29_ivan_patel.pdf": {
+      "name": "Ivan Patel",
+      "archetype": "devops",
+      "level": "mid",
+      "skills": [
+        "Docker",
+        "Linux",
+        "CI/CD",
+        "Kubernetes",
+        "Jenkins",
+        "AWS",
+        "Grafana",
+        "Python",
+        "Terraform"
+      ],
+      "skill_years": {
+        "Docker": 4.1,
+        "Linux": 4.1,
+        "CI/CD": 4.1,
+        "Kubernetes": 4.1,
+        "Jenkins": 1.4,
+        "AWS": 4.1,
+        "Grafana": 2.7,
+        "Python": 2.7,
+        "Terraform": 2.7
+      },
+      "total_years": 4.1,
+      "education_level": 2
+    },
+    "30_toms_hassan.pdf": {
+      "name": "Tom\u00e1s Hassan",
+      "archetype": "devops",
+      "level": "junior",
+      "skills": [
+        "Docker",
+        "Linux",
+        "CI/CD",
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "Prometheus",
+        "Jenkins",
+        "Python",
+        "Azure"
+      ],
+      "skill_years": {
+        "Docker": 2.8,
+        "Linux": 2.8,
+        "CI/CD": 2.8,
+        "Kubernetes": 2.8,
+        "Terraform": 2.8,
+        "AWS": 2.8,
+        "Prometheus": 2.8,
+        "Jenkins": 2.8,
+        "Python": 0.0,
+        "Azure": 0.0
+      },
+      "total_years": 2.8,
+      "education_level": 2
+    },
+    "31_grace_sato.pdf": {
+      "name": "Grace Sato",
+      "archetype": "devops",
+      "level": "senior",
+      "skills": [
+        "Docker",
+        "Linux",
+        "CI/CD",
+        "Kubernetes",
+        "Jenkins",
+        "Terraform",
+        "AWS",
+        "Prometheus"
+      ],
+      "skill_years": {
+        "Docker": 8.2,
+        "Linux": 8.2,
+        "CI/CD": 8.2,
+        "Kubernetes": 8.2,
+        "Jenkins": 5.0,
+        "Terraform": 4.9,
+        "AWS": 1.8,
+        "Prometheus": 0.0
+      },
+      "total_years": 8.2,
+      "education_level": 2
+    },
+    "32_zainab_larsen.pdf": {
+      "name": "Zainab Larsen",
+      "archetype": "devops",
+      "level": "mid",
+      "skills": [
+        "Docker",
+        "Linux",
+        "CI/CD",
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "Jenkins",
+        "Grafana"
+      ],
+      "skill_years": {
+        "Docker": 5.8,
+        "Linux": 5.8,
+        "CI/CD": 5.8,
+        "Kubernetes": 5.8,
+        "Terraform": 5.8,
+        "AWS": 2.3,
+        "Jenkins": 0.0,
+        "Grafana": 0.0
+      },
+      "total_years": 5.8,
+      "education_level": 3
+    },
+    "33_wei_chen.txt": {
+      "name": "Wei Chen",
+      "archetype": "mobile",
+      "level": "senior",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "GraphQL",
+        "REST APIs",
+        "Agile",
+        "CI/CD",
+        "Figma"
+      ],
+      "skill_years": {
+        "Android": 9.2,
+        "Kotlin": 9.2,
+        "GraphQL": 9.2,
+        "REST APIs": 6.2,
+        "Agile": 3.1,
+        "CI/CD": 3.1,
+        "Figma": 3.1
+      },
+      "total_years": 9.2,
+      "education_level": 3
+    },
+    "34_mei_park.pdf": {
+      "name": "Mei Park",
+      "archetype": "mobile",
+      "level": "mid",
+      "skills": [
+        "iOS",
+        "Swift",
+        "Agile",
+        "CI/CD",
+        "GraphQL",
+        "Figma",
+        "REST APIs"
+      ],
+      "skill_years": {
+        "iOS": 5.4,
+        "Swift": 5.4,
+        "Agile": 5.4,
+        "CI/CD": 3.9,
+        "GraphQL": 3.9,
+        "Figma": 3.9,
+        "REST APIs": 0.0
+      },
+      "total_years": 5.4,
+      "education_level": 3
+    },
+    "35_arjun_silva.pdf": {
+      "name": "Arjun Silva",
+      "archetype": "mobile",
+      "level": "junior",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Agile",
+        "REST APIs",
+        "CI/CD",
+        "Figma"
+      ],
+      "skill_years": {
+        "Android": 1.7,
+        "Kotlin": 1.7,
+        "Agile": 1.7,
+        "REST APIs": 1.7,
+        "CI/CD": 1.7,
+        "Figma": 0.0
+      },
+      "total_years": 1.7,
+      "education_level": 2
+    },
+    "36_nadia_reddy.pdf": {
+      "name": "Nadia Reddy",
+      "archetype": "mobile",
+      "level": "senior",
+      "skills": [
+        "iOS",
+        "Swift",
+        "Figma",
+        "Agile",
+        "CI/CD",
+        "GraphQL",
+        "REST APIs"
+      ],
+      "skill_years": {
+        "iOS": 11.6,
+        "Swift": 11.6,
+        "Figma": 5.0,
+        "Agile": 11.6,
+        "CI/CD": 8.2,
+        "GraphQL": 6.6,
+        "REST APIs": 0.0
+      },
+      "total_years": 11.6,
+      "education_level": 3
+    },
+    "37_arjun_haddad.txt": {
+      "name": "Arjun Haddad",
+      "archetype": "product_manager",
+      "level": "senior",
+      "skills": [
+        "Product Management",
+        "Agile",
+        "Figma",
+        "Tableau",
+        "SQL",
+        "JIRA",
+        "A/B Testing"
+      ],
+      "skill_years": {
+        "Product Management": 8.8,
+        "Agile": 8.8,
+        "Figma": 8.8,
+        "Tableau": 8.8,
+        "SQL": 1.9,
+        "JIRA": 1.9,
+        "A/B Testing": 0.0
+      },
+      "total_years": 8.8,
+      "education_level": 2
+    },
+    "38_hiroshi_cohen.pdf": {
+      "name": "Hiroshi Cohen",
+      "archetype": "product_manager",
+      "level": "mid",
+      "skills": [
+        "Product Management",
+        "Agile",
+        "Excel",
+        "A/B Testing",
+        "Figma",
+        "SQL"
+      ],
+      "skill_years": {
+        "Product Management": 4.6,
+        "Agile": 4.6,
+        "Excel": 3.2,
+        "A/B Testing": 3.2,
+        "Figma": 4.6,
+        "SQL": 1.3
+      },
+      "total_years": 4.6,
+      "education_level": 2
+    },
+    "39_sofia_patel.pdf": {
+      "name": "Sofia Patel",
+      "archetype": "product_manager",
+      "level": "junior",
+      "skills": [
+        "Product Management",
+        "Agile",
+        "Excel",
+        "SQL",
+        "JIRA",
+        "A/B Testing",
+        "Figma",
+        "Tableau"
+      ],
+      "skill_years": {
+        "Product Management": 2.8,
+        "Agile": 2.8,
+        "Excel": 2.8,
+        "SQL": 2.8,
+        "JIRA": 2.8,
+        "A/B Testing": 2.8,
+        "Figma": 0.0,
+        "Tableau": 0.0
+      },
+      "total_years": 2.8,
+      "education_level": 3
+    },
+    "40_layla_garcia.pdf": {
+      "name": "Layla Garcia",
+      "archetype": "product_manager",
+      "level": "senior",
+      "skills": [
+        "Product Management",
+        "Agile",
+        "A/B Testing",
+        "Figma",
+        "Tableau",
+        "SQL",
+        "JIRA",
+        "Excel"
+      ],
+      "skill_years": {
+        "Product Management": 6.8,
+        "Agile": 6.8,
+        "A/B Testing": 4.2,
+        "Figma": 4.2,
+        "Tableau": 6.8,
+        "SQL": 2.7,
+        "JIRA": 0.0,
+        "Excel": 0.0
+      },
+      "total_years": 6.8,
+      "education_level": 2
+    }
+  },
+  "job_descriptions": {
+    "jd_01_senior_ml_engineer": {
+      "primary": [
+        "ml_engineer"
+      ],
+      "secondary": [
+        "data_scientist"
+      ],
+      "must_haves": {
+        "skills": {
+          "Python": 5,
+          "Machine Learning": 3
+        },
+        "min_education": 2
+      }
+    },
+    "jd_02_data_scientist": {
+      "primary": [
+        "data_scientist"
+      ],
+      "secondary": [
+        "ml_engineer"
+      ],
+      "must_haves": {
+        "skills": {
+          "Python": 3,
+          "SQL": 3
+        },
+        "min_education": 2
+      }
+    },
+    "jd_03_data_engineer": {
+      "primary": [
+        "data_engineer"
+      ],
+      "secondary": [],
+      "must_haves": {
+        "skills": {
+          "SQL": 4,
+          "Spark": 3
+        },
+        "min_education": 2
+      }
+    },
+    "jd_04_backend_java_engineer": {
+      "primary": [
+        "backend_java"
+      ],
+      "secondary": [],
+      "must_haves": {
+        "skills": {
+          "Java": 5,
+          "Spring Boot": 3
+        }
+      }
+    },
+    "jd_05_frontend_engineer": {
+      "primary": [
+        "frontend"
+      ],
+      "secondary": [],
+      "must_haves": {
+        "skills": {
+          "React": 3,
+          "TypeScript": 3
+        }
+      }
+    },
+    "jd_06_devops_sre": {
+      "primary": [
+        "devops"
+      ],
+      "secondary": [],
+      "must_haves": {
+        "skills": {
+          "Kubernetes": 4,
+          "Terraform": 3
+        }
+      }
+    },
+    "jd_07_applied_llm_engineer": {
+      "primary": [
+        "ml_engineer"
+      ],
+      "secondary": [
+        "data_scientist"
+      ],
+      "must_haves": {
+        "skills": {
+          "Python": 2,
+          "LLMs": 1
+        }
+      }
+    },
+    "jd_08_product_manager": {
+      "primary": [
+        "product_manager"
+      ],
+      "secondary": [],
+      "must_haves": {
+        "skills": {
+          "Product Management": 3
+        },
+        "min_education": 2
+      }
+    }
+  }
+}

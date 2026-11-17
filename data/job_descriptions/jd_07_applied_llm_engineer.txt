@@ -1,0 +1,20 @@
+Applied AI Engineer - LLM Applications
+
+About the role
+We are building customer-facing assistants powered by large language models. You will design retrieval-augmented generation pipelines, evaluate quality and ship to production.
+
+Responsibilities
+- Build and evaluate RAG systems end to end
+- Fine-tune and prompt large language models
+- Monitor quality, cost and latency in production
+
+Requirements
+- 2+ years of experience with Python
+- 1+ years of experience with LLMs
+- Experience with RAG and NLP
+- Familiarity with Docker and AWS
+
+Nice to have
+- PyTorch
+- FastAPI
+- MLOps

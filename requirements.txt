@@ -1,0 +1,11 @@
+chromadb>=0.5
+pypdf>=4.0
+numpy
+scikit-learn
+pandas
+matplotlib
+reportlab            # dataset generation (PDF resumes)
+sentence-transformers  # default HuggingFace embeddings (all-MiniLM-L6-v2)
+# openai             # optional: OPENAI_API_KEY + EMBED_BACKEND=openai
+jupyter
+nbformat

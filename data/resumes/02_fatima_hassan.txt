@@ -1,0 +1,25 @@
+Fatima Hassan
+fatima.hassan@example.com | +70 227-876-9652 | San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 4 years in industry building reliable, user-focused solutions. Hands-on with NLP, ML, Python.
+
+EXPERIENCE
+Machine Learning Engineer | Tidewater Logistics | Mar 2024 - Present
+- Cut inference latency by 51% by profiling and optimising services built on RAG.
+- Led code reviews and onboarding for 6 new hires working with Python.
+- Owned the model lifecycle from prototype to production using machine learning.
+- Day-to-day toolkit: PyTorch, Computer Vision.
+Junior ML Engineer | Kestrel Robotics | Nov 2022 - Mar 2024
+- Trained and deployed models with natural language processing and Python, improving offline F1 by 42 points.
+- Built feature engineering workflows with PyTorch and machine learning shared across 3 product teams.
+
+ACADEMIC BACKGROUND
+Ph.D. in Computer Science | Coastal State University | 2020
+B.Tech in Computer Science | Coastal State University | 2016
+
+CORE COMPETENCIES
+PyTorch, Python, RAG, NLP, Computer Vision, Docker, Machine Learning
+
+CERTIFICATIONS
+- PCEP Certified Python Entry-Level Programmer

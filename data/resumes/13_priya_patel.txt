@@ -1,0 +1,30 @@
+Priya Patel
+priya.patel@example.com | +11 702-906-2713 | Remote
+
+PROFILE
+Senior Data Engineer with 7 years in industry building reliable, user-focused solutions. Hands-on with PySpark, Snowflake, Airflow.
+
+TECHNICAL SKILLS
+Core: Snowflake, Spark, SQL
+Also: Python, Kafka, GCP, Airflow
+
+WORK EXPERIENCE
+Senior Data Engineer | Atlas Travel | Mar 2025 – Present
+- Led code reviews and onboarding for 9 new hires working with Python.
+- Improved reliability and documentation for systems that rely on PySpark and SQL.
+- Migrated legacy warehouse jobs to Kafka, cutting runtime by 30%.
+- Day-to-day toolkit: Airflow.
+Data Engineer | Cobalt Cloud | Mar 2020 – Mar 2025
+- Improved reliability and documentation for systems that rely on Google Cloud and Kafka.
+- Modelled analytics layers in PySpark consumed by 8 downstream teams.
+- Collaborated across teams to deliver milestones on schedule using Snowflake.
+- Day-to-day toolkit: SQL, Python.
+
+EDUCATION
+B.Tech in Information Systems | Central Tech University | 2019
+
+SELECTED PROJECTS
+- Open-source contributor: built a small tool using PySpark with 874 GitHub stars.
+
+CERTIFICATIONS
+- PCEP Certified Python Entry-Level Programmer

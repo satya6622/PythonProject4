@@ -1,0 +1,20 @@
+Senior Backend Engineer (Java)
+
+About the role
+Our payments platform processes thousands of transactions per second. You will design resilient services and raise the bar on engineering quality.
+
+Responsibilities
+- Design, build and operate backend services
+- Lead technical design reviews
+- Improve performance, reliability and observability
+
+Requirements
+- 5+ years of experience with Java
+- 3+ years of experience with Spring Boot
+- Experience designing microservices and REST APIs
+- Experience with PostgreSQL or MySQL
+
+Nice to have
+- Kafka
+- Docker and Kubernetes
+- Redis

@@ -1,0 +1,27 @@
+ARJUN BELLO
+arjun.bello@example.com | +11 684-117-5744 | London
+
+PROFESSIONAL SUMMARY
+Senior ML Engineer with 11 years in industry building reliable, user-focused solutions. Hands-on with retrieval-augmented generation, AWS, TensorFlow.
+
+SKILLS
+Core: Python, FastAPI, RAG, TensorFlow
+Also: Machine Learning, PyTorch, AWS, sklearn
+
+PROFESSIONAL EXPERIENCE
+Senior ML Engineer | Helio Analytics | Jan 2024 - Present
+- Built feature engineering workflows with retrieval-augmented generation and TensorFlow shared across 7 product teams.
+- Trained and deployed models with FastAPI and machine learning, improving offline F1 by 50 points.
+- Led code reviews and onboarding for 8 new hires working with sklearn.
+- Collaborated across teams to deliver milestones on schedule using PyTorch.
+- Day-to-day toolkit: Python.
+Machine Learning Engineer | Cobalt Cloud | May 2016 - Jan 2024
+- Led code reviews and onboarding for 8 new hires working with machine learning.
+- Built feature engineering workflows with PyTorch and AWS shared across 8 product teams.
+- Day-to-day toolkit: Python.
+
+ACADEMIC BACKGROUND
+Bachelor of Engineering in Electrical Engineering | Northern Polytechnic University | 2013
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect

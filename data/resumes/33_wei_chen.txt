@@ -1,0 +1,23 @@
+WEI CHEN
+wei.chen@example.com | +89 378-934-5974 | Pune
+
+PROFESSIONAL SUMMARY
+Senior Mobile Engineer with 9 years in industry building reliable, user-focused solutions. Hands-on with Android, Agile, GraphQL.
+
+SKILLS
+Agile, Kotlin, GraphQL, CI/CD, Android, REST APIs, Figma
+
+WORK EXPERIENCE
+Senior Mobile Engineer | Orchid Software | 2023 – Present
+- Led adoption of a modern architecture for apps using CI/CD and Figma.
+- Built offline-first features with Android for 9 markets.
+- Shipped consumer apps built with Agile and GraphQL to 28M downloads.
+- Day-to-day toolkit: Kotlin.
+Mobile Engineer | Solstice Energy | 2017 – 2023
+- Collaborated across teams to deliver milestones on schedule using GraphQL.
+- Built offline-first features with REST APIs for 5 markets.
+- Day-to-day toolkit: Android, Kotlin.
+
+EDUCATION
+M.S. in Computer Science | Eastern State University | 2014
+B.S. in Computer Science | Eastern State University | 2012

@@ -1,0 +1,20 @@
+Data Engineer - Platform
+
+About the role
+Our data platform powers analytics and machine-learning products across the company. You will design, build and operate large-scale batch and streaming workflows.
+
+Responsibilities
+- Build and maintain ingestion and transformation workflows
+- Own data quality, lineage and cost efficiency
+- Partner with analysts and scientists on data models
+
+Requirements
+- 4+ years of experience with SQL
+- 3+ years of experience with Spark
+- Experience with Airflow and Python
+- Experience with AWS or GCP
+- Bachelor's degree in Computer Science or equivalent
+
+Nice to have
+- Kafka and dbt
+- Snowflake or BigQuery

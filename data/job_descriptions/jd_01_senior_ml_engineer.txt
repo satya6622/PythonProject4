@@ -1,0 +1,21 @@
+Senior Machine Learning Engineer
+
+About the role
+We build recommendation and ranking systems used by millions of customers. You will own models from prototype to production and work closely with data scientists and platform engineers.
+
+Responsibilities
+- Train, evaluate and deploy machine learning models at scale
+- Build reliable serving and monitoring for model endpoints
+- Mentor junior engineers and review designs
+
+Requirements
+- 5+ years of experience with Python
+- 3+ years of experience with machine learning in production
+- Hands-on experience with PyTorch or TensorFlow
+- Experience with Docker and AWS
+- Bachelor's degree in Computer Science or a related field
+
+Nice to have
+- Kubernetes and MLOps practices
+- Experience with LLMs and RAG systems
+- Spark for large-scale data processing

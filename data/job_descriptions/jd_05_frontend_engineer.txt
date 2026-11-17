@@ -1,0 +1,20 @@
+Frontend Engineer - Web Platform
+
+About the role
+You will build the customer-facing web application used by hundreds of thousands of people each month, partnering closely with design and product.
+
+Responsibilities
+- Build accessible, performant user interfaces
+- Maintain our shared component library
+- Collaborate with backend engineers on API design
+
+Requirements
+- 3+ years of experience with React
+- 3+ years of experience with TypeScript
+- Solid HTML/CSS and JavaScript fundamentals
+- Experience consuming REST APIs or GraphQL
+
+Nice to have
+- Node.js
+- Figma and design-system experience
+- CI/CD for frontend delivery

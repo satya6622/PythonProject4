@@ -1,0 +1,28 @@
+Hiroshi Ruiz
+hiroshi.ruiz@example.com | +65 409-668-3978 | New York, NY
+
+PROFESSIONAL SUMMARY
+Senior Site Reliability Engineer with 11 years in industry building reliable, user-focused solutions. Hands-on with Docker, Azure, Terraform.
+
+CORE COMPETENCIES
+Core: Terraform, Kubernetes, Azure
+Also: Linux, Docker, CI/CD, Prometheus
+
+WORK EXPERIENCE
+Senior Site Reliability Engineer | BlueOrbit | Dec 2018 – Present
+- Automated infrastructure provisioning with Kubernetes and continuous integration, reducing setup time from days to minutes.
+- Led code reviews and onboarding for 9 new hires working with Terraform.
+- Improved reliability and documentation for systems that rely on Prometheus and Linux.
+- Day-to-day toolkit: Docker.
+DevOps Engineer | Pioneer Mobility | Mar 2016 – Oct 2018
+- Improved reliability and documentation for systems that rely on Linux and Terraform.
+- Raised service availability to 99.932% by building alerting and runbooks around Docker.
+- Standardised delivery workflows on Azure, enabling 7 teams to deploy several times a day.
+- Collaborated across teams to deliver milestones on schedule using Prometheus.
+- Day-to-day toolkit: CI/CD, Kubernetes.
+
+EDUCATION
+Bachelor of Science in Computer Engineering | Northern Polytechnic University | 2014
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate

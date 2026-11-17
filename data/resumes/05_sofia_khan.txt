@@ -1,0 +1,28 @@
+Sofia Khan
+sofia.khan@example.com | +71 531-350-1564 | Toronto
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 4 years in industry building reliable, user-focused solutions. Hands-on with machine learning, PyTorch, retrieval-augmented generation.
+
+WORK EXPERIENCE
+Machine Learning Engineer | Pioneer Mobility | 2024 - Present
+- Led code reviews and onboarding for 5 new hires working with PyTorch.
+- Cut inference latency by 37% by profiling and optimising services built on Python.
+- Built feature engineering workflows with Docker shared across 3 product teams.
+- Day-to-day toolkit: machine learning, k8s.
+Junior ML Engineer | Fernwood Health | 2022 - 2024
+- Trained and deployed models with AWS and retrieval-augmented generation, improving offline F1 by 34 points.
+- Collaborated across teams to deliver milestones on schedule using Python.
+- Owned the model lifecycle from prototype to production using machine learning.
+- Day-to-day toolkit: PyTorch.
+
+EDUCATION
+M.Sc. in Applied Mathematics | Coastal Tech University | 2020
+Bachelor of Science in Applied Mathematics | Coastal Tech University | 2018
+
+SKILLS
+Core: Kubernetes, Python, Amazon Web Services, machine learning
+Also: RAG, PyTorch, Deep Learning, Docker
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)

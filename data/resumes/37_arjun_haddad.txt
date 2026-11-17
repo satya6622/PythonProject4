@@ -1,0 +1,23 @@
+ARJUN HADDAD
+arjun.haddad@example.com | +50 414-462-5127 | New York, NY
+
+PROFILE
+Senior Product Manager with 9 years in industry building reliable, user-focused solutions. Hands-on with Figma, JIRA, Tableau.
+
+SKILLS
+Core: Tableau, A/B testing, SQL
+Also: Figma, JIRA, Agile, product roadmap
+
+EXPERIENCE
+Senior Product Manager | Fernwood Health | Dec 2024 – Present
+- Grew activation by 12% by pairing quantitative analysis in SQL with user research.
+- Ran discovery with 4 customer segments and translated findings into plans tracked in product roadmap.
+- Aligned engineering, design and sales around outcomes, reporting through Scrum.
+- Day-to-day toolkit: Tableau, Figma, JIRA.
+Product Manager | Solstice Energy | Feb 2018 – Dec 2024
+- Improved reliability and documentation for systems that rely on product management and Figma.
+- Aligned engineering, design and sales around outcomes, reporting through Agile.
+- Day-to-day toolkit: Tableau.
+
+ACADEMIC BACKGROUND
+Bachelor of Engineering in Business Administration | Northern National University | 2017

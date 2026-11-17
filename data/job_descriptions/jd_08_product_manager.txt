@@ -1,0 +1,20 @@
+Product Manager - Data Products
+
+About the role
+Own the roadmap for our customer analytics product, working with engineering, design and go-to-market teams.
+
+Responsibilities
+- Define the vision and prioritise the backlog
+- Run discovery with customers and translate needs into requirements
+- Track outcomes and iterate
+
+Requirements
+- 3+ years of experience in product management
+- Experience working in Agile teams
+- Comfortable with SQL for self-serve analysis
+- Bachelor's degree
+
+Nice to have
+- Tableau or Excel modelling
+- A/B testing experience
+- JIRA
